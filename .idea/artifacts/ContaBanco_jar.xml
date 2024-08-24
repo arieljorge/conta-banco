@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ContaBanco:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ContaBanco_jar</output-path>
+    <root id="archive" name="ContaBanco.jar">
+      <element id="module-output" name="ContaBanco" />
+    </root>
+  </artifact>
+</component>
